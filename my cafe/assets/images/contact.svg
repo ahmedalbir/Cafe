@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Contact illustration">
+  <rect width="1200" height="900" rx="40" fill="#f5e7d6"/>
+  <rect x="110" y="120" width="980" height="650" rx="50" fill="#fffaf4"/>
+  <circle cx="350" cy="350" r="120" fill="#d6a057"/>
+  <path d="M800 260h150v290H800z" fill="#8b4f2b"/>
+  <path d="M210 610c100-40 180-100 260-180 90 50 190 70 300 60" stroke="#60331c" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <text x="150" y="770" fill="#60331c" font-size="56" font-family="Arial, sans-serif" font-weight="700">Find us here</text>
+</svg>

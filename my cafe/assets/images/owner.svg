@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Owner portrait illustration">
+  <rect width="1200" height="900" rx="40" fill="#efe0ce"/>
+  <circle cx="820" cy="160" r="130" fill="#fff9f2"/>
+  <rect x="200" y="170" width="420" height="560" rx="48" fill="#8b4f2b"/>
+  <circle cx="410" cy="340" r="130" fill="#f5d2b1"/>
+  <rect x="310" y="455" width="200" height="220" rx="48" fill="#fffaf4"/>
+  <rect x="640" y="300" width="360" height="400" rx="44" fill="#fffaf4"/>
+  <text x="680" y="420" fill="#60331c" font-size="62" font-family="Arial, sans-serif" font-weight="700">Owner</text>
+  <text x="680" y="485" fill="#6d5a4a" font-size="30" font-family="Arial, sans-serif">Welcome to D Cafe</text>
+</svg>

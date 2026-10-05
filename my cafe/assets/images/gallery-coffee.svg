@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Gallery coffee">
+  <rect width="900" height="900" fill="#f4e0c7"/>
+  <rect x="200" y="210" width="500" height="420" rx="48" fill="#fffaf4"/>
+  <path d="M300 360h260c0 120-40 220-130 220s-130-100-130-220z" fill="#8b4f2b"/>
+  <path d="M560 360h50c40 0 70 30 70 70s-30 70-70 70h-50" fill="none" stroke="#d6a057" stroke-width="34" stroke-linecap="round"/>
+</svg>

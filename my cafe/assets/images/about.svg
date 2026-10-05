@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="About illustration">
+  <rect width="1200" height="900" rx="40" fill="#f4e1c9"/>
+  <circle cx="260" cy="240" r="110" fill="#d6a057"/>
+  <circle cx="900" cy="180" r="160" fill="#fff6e9"/>
+  <rect x="160" y="420" width="880" height="300" rx="40" fill="#8b4f2b"/>
+  <rect x="220" y="360" width="250" height="250" rx="38" fill="#fffaf4"/>
+  <rect x="510" y="340" width="180" height="280" rx="38" fill="#fffaf4"/>
+  <rect x="730" y="380" width="300" height="240" rx="38" fill="#fffaf4"/>
+  <text x="120" y="120" fill="#60331c" font-size="60" font-family="Arial, sans-serif" font-weight="700">Our Story</text>
+  <text x="120" y="780" fill="#6d5a4a" font-size="30" font-family="Arial, sans-serif">Mission, vision, and a warm coffee experience</text>
+</svg>

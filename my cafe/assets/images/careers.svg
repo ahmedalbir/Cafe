@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Careers illustration">
+  <rect width="1200" height="900" rx="40" fill="#f2e0ca"/>
+  <rect x="140" y="160" width="920" height="560" rx="46" fill="#fffaf4"/>
+  <rect x="210" y="250" width="300" height="360" rx="40" fill="#8b4f2b"/>
+  <rect x="570" y="250" width="400" height="120" rx="34" fill="#d6a057"/>
+  <rect x="570" y="400" width="320" height="78" rx="20" fill="#efdfcc"/>
+  <rect x="570" y="510" width="360" height="78" rx="20" fill="#efdfcc"/>
+  <text x="180" y="770" fill="#60331c" font-size="56" font-family="Arial, sans-serif" font-weight="700">Join our team</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Gallery moments">
+  <rect width="900" height="900" fill="#f5e8d7"/>
+  <circle cx="300" cy="360" r="120" fill="#8b4f2b"/>
+  <circle cx="600" cy="360" r="120" fill="#d6a057"/>
+  <circle cx="450" cy="540" r="150" fill="#fffaf4"/>
+</svg>

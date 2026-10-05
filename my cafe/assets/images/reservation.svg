@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Reservation illustration">
+  <rect width="1200" height="900" rx="40" fill="#f7efe4"/>
+  <rect x="90" y="120" width="1020" height="640" rx="48" fill="#fffaf4"/>
+  <rect x="150" y="190" width="900" height="90" rx="24" fill="#8b4f2b"/>
+  <circle cx="230" cy="235" r="28" fill="#fff4de"/>
+  <circle cx="330" cy="235" r="28" fill="#fff4de"/>
+  <circle cx="430" cy="235" r="28" fill="#fff4de"/>
+  <rect x="190" y="340" width="280" height="260" rx="34" fill="#d6a057"/>
+  <rect x="530" y="340" width="280" height="260" rx="34" fill="#efdfcc"/>
+  <rect x="870" y="340" width="140" height="260" rx="34" fill="#8b4f2b"/>
+  <text x="130" y="770" fill="#60331c" font-size="56" font-family="Arial, sans-serif" font-weight="700">Reserve a Table</text>
+</svg>

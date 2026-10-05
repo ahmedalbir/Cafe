@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Cold coffee">
+  <rect width="900" height="700" rx="40" fill="#ebefe9"/>
+  <rect x="180" y="180" width="540" height="340" rx="48" fill="#fffaf4"/>
+  <rect x="300" y="250" width="300" height="180" rx="90" fill="#7aa7c7"/>
+</svg>
